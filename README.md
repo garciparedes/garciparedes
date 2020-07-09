@@ -6,6 +6,7 @@ Hi everyone! I’m a double Bachelor’s degree graduate in Computer Engineering
 
 ## Get in touch
 - Personal site: https://garciparedes.me
-- Stack OverFlow: https://stackoverflow.com/users/3921457
+- Stack Overflow: https://stackoverflow.com/users/3921457
 - Google Scholar: https://scholar.google.com/citations?user=X3Mb7BAAAAAJ
 - LinkedIn: https://www.linkedin.com/in/garciparedes
+- Twitter: https://twitter.com/garciparedes
