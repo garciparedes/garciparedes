@@ -2,7 +2,7 @@
 ### Software Engineering | Statistics | RPA | Combinatorial Optimization
 
 ## About Me
-Hi everyone! I’m a double Bachelor’s degree graduate in **Computer Engineering** and (future graduate) in **Statistics** from the University of Valladolid, in Spain. I love to solve complex algorithmic problems, especially those based on **Combinatorial Optimization** via tricky techniques. Also, I enjoy applying Mathematical and Statistical approaches to develop amazing solutions. Lately, I’m curious about **Sequential Models**, **Architectural Patterns** and the **Rust Programming Language**. Currently, I’m happily working at **Unlimiteck Company Builder** developing tools to solve complex combinatorial problems.
+Hi everyone! I'm a double Bachelor's degree graduate in <strong>Computer Engineering</strong> and in <strong>Statistics</strong> from the University of Valladolid, in Spain. I love to solve complex algorithmic problems, especially those based on <strong>Combinatorial Optimization</strong> via tricky techniques. Also, I enjoy applying Mathematical and Statistical approaches to develop amazing solutions. Lately, I'm specially curious about <strong>Sequential Models</strong>, <strong>Architectural Patterns</strong> and the <strong>Rust Programming Language</strong>. One of my biggest hobbies is <strong>Competitive Programming</strong>, which I try to practice as much as possible."
 
 ## Get in touch
 - Personal site: https://garciparedes.me
