@@ -2,7 +2,7 @@
 ### Software Engineering | Statistics | RPA | Combinatorial Optimization
 
 ## About Me
-Hi everyone! I'm a double Bachelor's degree graduate in <strong>Computer Engineering</strong> and in <strong>Statistics</strong> from the University of Valladolid, in Spain. I love to solve complex algorithmic problems, especially those related with <strong>Combinatorial Optimization</strong>. Also, I enjoy applying Mathematical and Statistical approaches to develop amazing solutions. Lately, I'm specially curious about <strong>Sequential Models</strong>, <strong>Architectural Patterns</strong> and the <strong>Rust Programming Language</strong>. One of my biggest hobbies is <strong>Competitive Programming</strong>, which I try to practice as much as possible.
+Hi everyone! I'm a double Bachelor's degree graduate in <strong>Computer Engineering</strong> and in <strong>Statistics</strong> from the University of Valladolid, in Spain. I love to solve complex algorithmic problems, especially those related with <strong>Combinatorial Optimization</strong>. Also, I enjoy applying Mathematical and Statistical approaches to develop amazing solutions. Lately, I'm especially curious about <strong>Sequential Models</strong>, <strong>Architectural Patterns</strong> and the <strong>Rust Programming Language</strong>. One of my biggest hobbies is <strong>Competitive Programming</strong>, which I try to practice as much as possible.
 
 ## Get in touch
 - Personal site: https://garciparedes.me
