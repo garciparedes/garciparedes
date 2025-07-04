@@ -2,7 +2,7 @@
 ### Software Engineering | Statistics
 
 ## About Me 👨🏻‍💻
-I'm a double Bachelor's degree graduate in <strong>Computer Engineering</strong> and in <strong>Statistics</strong> from the University of Valladolid, in Spain. I love to solve complex algorithmic problems, especially those related with <strong>Combinatorial Optimization</strong>. Also, I enjoy applying Mathematical and Statistical approaches to develop amazing solutions.
+I am a double Bachelor's degree graduate in <strong>Computer Engineering</strong> and in <strong>Statistics</strong> for the University of Valladolid, in Spain. I love solving complex algorithmic problems, especially those related to <strong>Combinatorial Optimization</strong>. Also, I enjoy applying Mathematical and Statistical approaches to develop amazing solutions.
 ## Get in touch 📬
 - Personal site: https://garciparedes.me
 - Stack Overflow: https://stackoverflow.com/users/3921457
